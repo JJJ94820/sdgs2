@@ -178,7 +178,7 @@
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
-.slicknav_menu .slicknav_open .slicknav_icon-bar:nth-child(1) {
+.slicknav_menu .slicknav_open .-bar:nth-child(1) {
     -webkit-transform: rotate(45deg) translate(1px, 7px);
     -ms-transform: rotate(45deg) translate(1px, 7px);
         transform: rotate(45deg) translate(1px, 7px);
